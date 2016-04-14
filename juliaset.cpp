@@ -1,6 +1,6 @@
 //-----------------------------------------------------------------------------
 // Name: 3D Julia Set
-// Author: Melih Elibol (Modified from 
+// Author: Melih Elibol
 // Last Modified: 06/11/05
 // Description: Hardware accelerated 3D julia set using point sprites in Direct3D.
 //-----------------------------------------------------------------------------
